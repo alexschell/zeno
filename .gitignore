@@ -1,3 +1,11 @@
+settings.py
+*.log
+*.R
+*.pyc
+v0/settings.py
+v0/*.R
+v0/*.log
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
